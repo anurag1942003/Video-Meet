@@ -16,5 +16,7 @@ Developed with ReactJS, Node.js, SocketIO.
 
 ### Local setup
 
-1. `yarn install`
-2. `yarn dev`
+1. Clone the repository: `git clone [your-repo-link]`
+2. Navigate to the project directory: `cd [your-project-name]`
+3. Install dependencies: `yarn install`
+4. Run the application: `yarn dev`
