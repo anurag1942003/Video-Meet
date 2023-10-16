@@ -2,8 +2,8 @@
 Simple Google Meet / Zoom clone
 
 Developed with ReactJS, Node.js, SocketIO.
+
 ![Website](https://imgur.com/DloPNLx)
-![Website](https://i.imgur.com/HhZD01o.jpg)
 
 ### Features
 
